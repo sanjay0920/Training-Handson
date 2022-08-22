@@ -95,6 +95,99 @@ using System;
     }
 }
 
+//problem5
+
+using System;
+    namespace application
+{
+    class program
+    {
+        static void Main(string[] args)
+        {
+           int[][] jagged_arr = new int[4][];
+
+
+            jagged_arr[0] = new int[] { 1, 23 };
+            jagged_arr[1] = new int[] { 2, 34 };
+            jagged_arr[2] = new int[] { 3, 23 };
+            jagged_arr[3] = new int[] { 4, 45 };
+
+
+            for (int n = 0; n < jagged_arr.Length; n++)
+            {
+
+
+                System.Console.Write("Row({0}): ", n);
+
+                for (int k = 0; k < jagged_arr[n].Length; k++)
+                {
+                    System.Console.Write("{0} ", jagged_arr[n][k]);	
+            }
+         }
+        }
+    }
+}
+
+//problem6
+
+using System;
+using System.Collections;
+public class program
+{
+        public static void Main(string[] args)
+        {
+           Stack s = new Stack();
+            s.Push(" bike");
+            s.Push(" car ");
+            s.Push(" bus ");
+            Console.WriteLine("count of stack"+s.Count);
+            Console.WriteLine("Element at the top is : " + s.Peek());
+            object s1 = s.Pop();
+            Console.WriteLine("1st pop:" + s1);
+            Console.ReadLine();	
+            }
+         }	
+
+//problem7
+
+using System;
+using System.Collections.Generic;
+
+    public class program
+    {
+        public static void Main(string[] args)
+        {
+           Queue myQueue = new Queue();
+            myQueue.Enqueue(1);
+            myQueue.Enqueue(2);
+            myQueue.Enqueue(3);
+            myQueue.Enqueue(4);
+            Console.Write("Total number of elements in the Queue are : " + myQueue.Count);
+            Console.WriteLine("Top element of queue using peek:" + myQueue.Peek());
+            Console.WriteLine("Top element of queue using Deqeue:" + myQueue.Dequeue());
+            Console.WriteLine("after deqeue the count of myQueue:" + myQueue.Count);
+            Console.ReadLine();	
+            }
+         }
+        
+//problem8
+
+using System;
+using System.Collections;
+public class program
+    {
+        public static void Main(string[] args)
+        {
+           Hashtable numberNames = new Hashtable();
+            numberNames.Add(1, "One"); 
+            numberNames.Add(2, "Two");
+            numberNames.Add(3, "Three");
+            foreach (DictionaryEntry de in numberNames)
+                Console.WriteLine("Key: {0}, Value: {1}", de.Key, de.Value);
+            Console.ReadLine();	
+            }
+         }
+
 //problem12
 
 using System;
