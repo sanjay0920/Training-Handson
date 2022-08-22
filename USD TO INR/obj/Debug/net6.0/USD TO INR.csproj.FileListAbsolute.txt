@@ -1,0 +1,15 @@
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\bin\Debug\net6.0\USD TO INR.exe
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\bin\Debug\net6.0\USD TO INR.deps.json
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\bin\Debug\net6.0\USD TO INR.runtimeconfig.json
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\bin\Debug\net6.0\USD TO INR.dll
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\bin\Debug\net6.0\USD TO INR.pdb
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\obj\Debug\net6.0\USD TO INR.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\obj\Debug\net6.0\USD TO INR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\obj\Debug\net6.0\USD TO INR.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\obj\Debug\net6.0\USD TO INR.AssemblyInfo.cs
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\obj\Debug\net6.0\USD TO INR.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\obj\Debug\net6.0\USD TO INR.dll
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\obj\Debug\net6.0\refint\USD TO INR.dll
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\obj\Debug\net6.0\USD TO INR.pdb
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\obj\Debug\net6.0\USD TO INR.genruntimeconfig.cache
+C:\Users\SANJAY STARK\Desktop\c#\USD TO INR\obj\Debug\net6.0\ref\USD TO INR.dll

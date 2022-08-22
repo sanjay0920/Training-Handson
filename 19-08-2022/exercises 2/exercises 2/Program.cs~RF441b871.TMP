@@ -1,0 +1,155 @@
+﻿//problem1
+using System;
+namespace application
+{
+    class program
+    {
+        static void Main(string[] args)
+        {
+            int a;
+            int b;
+            int min;
+            int max;
+            Console.Write("Enter first number : ");
+            a = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter second number: ");
+            b = Convert.ToInt32(Console.ReadLine());
+
+            if (a > b)
+                max = a;
+            else
+                max = b;
+
+            if (a < b)
+                min = a;
+            else
+                min = b;
+
+            Console.WriteLine("Minimum number = {0}", min);
+            Console.WriteLine("Maximum number = {0}", max);
+        }
+    }
+}
+
+//problem2
+using System;
+namespace application
+{
+    class program
+    {
+        static void Main(string[] args)
+        {
+            int num1, num2, num3;
+            Console.Write("enter the 1st number:");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("enter the 2nd number:");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("enter the 3rd number:");
+            num3 = Convert.ToInt32(Console.ReadLine());
+            if(num1 > num3)
+            {
+                if (num1 > num2)
+                {
+                    Console.Write("1st number is greatest");
+                }
+                else
+                {
+                    Console.Write("3rd number is greatest");
+                }
+            }
+            else if (num2 > num3)
+                Console.Write("2nd number is greatest");
+            else
+                Console.Write("3rd number is greatest");
+
+        }
+    }
+}
+
+//problem3
+using System;
+namespace application
+{
+    class Program
+    {
+        static void Main(string[] args)
+
+        {
+            string s1, s2;
+
+            Console.WriteLine("Enter the first character : ");
+            s1 = Convert.ToString(Console.ReadLine());
+
+            Console.WriteLine("Enter the second character : ");
+            s2 = Convert.ToString(Console.ReadLine());
+
+            if (s1 == s2)
+                Console.WriteLine("characters are equal");
+            else
+                Console.WriteLine("Characters are not equal");
+        }
+    }
+}
+//problem5
+using System;
+namespace application
+{
+    class program
+    {
+        static void Main(string[] args)
+        {
+
+            int a, b;
+            Console.WriteLine("Enter the Two Numbers : ");
+            a = Convert.ToInt32(Console.ReadLine());
+            b = Convert.ToInt32(Console.ReadLine());
+            if (a > b)
+            {
+                Console.WriteLine("{0} is the Greatest Number", a);
+            }
+            else
+            {
+                Console.WriteLine("{0} is the Greatest Number ", b);
+            }
+            Console.ReadLine();
+        }
+    }
+}
+
+//problem6
+using System;  
+namespace application
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter Year : ");
+            int Year = int.Parse(Console.ReadLine());
+            if (((Year % 4 == 0) && (Year % 100 != 0)) || (Year % 400 == 0)) Console.WriteLine("{0} is a Leap Year.", Year);
+            else Console.WriteLine("{0} is not a Leap Year.", Year);
+            Console.ReadLine();
+        }
+    }
+}
+
+//problem9
+using System;
+namespace application
+{
+    class program
+    {
+        static void Main(string[] args)
+        {
+            int i, n, sum = 0;
+            Console.Write("enter number of terms : ");
+            n = Convert.ToInt32(Console.ReadLine());
+            Console.Write("The odd numbers are :");
+            for (i = 1; i <= n; i++)
+            {
+                Console.Write("{0} ", 2 * i - 1);
+                sum += 2 * i - 1;
+            }
+        }
+    }
+}

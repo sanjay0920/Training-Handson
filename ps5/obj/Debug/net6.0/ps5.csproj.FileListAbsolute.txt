@@ -1,0 +1,15 @@
+C:\Users\SANJAY STARK\Desktop\c#\ps5\bin\Debug\net6.0\ps5.exe
+C:\Users\SANJAY STARK\Desktop\c#\ps5\bin\Debug\net6.0\ps5.deps.json
+C:\Users\SANJAY STARK\Desktop\c#\ps5\bin\Debug\net6.0\ps5.runtimeconfig.json
+C:\Users\SANJAY STARK\Desktop\c#\ps5\bin\Debug\net6.0\ps5.dll
+C:\Users\SANJAY STARK\Desktop\c#\ps5\bin\Debug\net6.0\ps5.pdb
+C:\Users\SANJAY STARK\Desktop\c#\ps5\obj\Debug\net6.0\ps5.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\Desktop\c#\ps5\obj\Debug\net6.0\ps5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\Desktop\c#\ps5\obj\Debug\net6.0\ps5.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\Desktop\c#\ps5\obj\Debug\net6.0\ps5.AssemblyInfo.cs
+C:\Users\SANJAY STARK\Desktop\c#\ps5\obj\Debug\net6.0\ps5.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\Desktop\c#\ps5\obj\Debug\net6.0\ps5.dll
+C:\Users\SANJAY STARK\Desktop\c#\ps5\obj\Debug\net6.0\refint\ps5.dll
+C:\Users\SANJAY STARK\Desktop\c#\ps5\obj\Debug\net6.0\ps5.pdb
+C:\Users\SANJAY STARK\Desktop\c#\ps5\obj\Debug\net6.0\ps5.genruntimeconfig.cache
+C:\Users\SANJAY STARK\Desktop\c#\ps5\obj\Debug\net6.0\ref\ps5.dll

@@ -1,0 +1,15 @@
+C:\Users\SANJAY STARK\Desktop\c#\average\bin\Debug\net6.0\average.exe
+C:\Users\SANJAY STARK\Desktop\c#\average\bin\Debug\net6.0\average.deps.json
+C:\Users\SANJAY STARK\Desktop\c#\average\bin\Debug\net6.0\average.runtimeconfig.json
+C:\Users\SANJAY STARK\Desktop\c#\average\bin\Debug\net6.0\average.dll
+C:\Users\SANJAY STARK\Desktop\c#\average\bin\Debug\net6.0\average.pdb
+C:\Users\SANJAY STARK\Desktop\c#\average\obj\Debug\net6.0\average.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\Desktop\c#\average\obj\Debug\net6.0\average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\Desktop\c#\average\obj\Debug\net6.0\average.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\Desktop\c#\average\obj\Debug\net6.0\average.AssemblyInfo.cs
+C:\Users\SANJAY STARK\Desktop\c#\average\obj\Debug\net6.0\average.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\Desktop\c#\average\obj\Debug\net6.0\average.dll
+C:\Users\SANJAY STARK\Desktop\c#\average\obj\Debug\net6.0\refint\average.dll
+C:\Users\SANJAY STARK\Desktop\c#\average\obj\Debug\net6.0\average.pdb
+C:\Users\SANJAY STARK\Desktop\c#\average\obj\Debug\net6.0\average.genruntimeconfig.cache
+C:\Users\SANJAY STARK\Desktop\c#\average\obj\Debug\net6.0\ref\average.dll

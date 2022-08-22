@@ -1,0 +1,15 @@
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\bin\Debug\net6.0\Celsius to fahrenheit.exe
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\bin\Debug\net6.0\Celsius to fahrenheit.deps.json
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\bin\Debug\net6.0\Celsius to fahrenheit.runtimeconfig.json
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\bin\Debug\net6.0\Celsius to fahrenheit.dll
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\bin\Debug\net6.0\Celsius to fahrenheit.pdb
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\obj\Debug\net6.0\Celsius to fahrenheit.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\obj\Debug\net6.0\Celsius to fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\obj\Debug\net6.0\Celsius to fahrenheit.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\obj\Debug\net6.0\Celsius to fahrenheit.AssemblyInfo.cs
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\obj\Debug\net6.0\Celsius to fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\obj\Debug\net6.0\Celsius to fahrenheit.dll
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\obj\Debug\net6.0\refint\Celsius to fahrenheit.dll
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\obj\Debug\net6.0\Celsius to fahrenheit.pdb
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\obj\Debug\net6.0\Celsius to fahrenheit.genruntimeconfig.cache
+C:\Users\SANJAY STARK\Desktop\c#\Celsius to fahrenheit\obj\Debug\net6.0\ref\Celsius to fahrenheit.dll

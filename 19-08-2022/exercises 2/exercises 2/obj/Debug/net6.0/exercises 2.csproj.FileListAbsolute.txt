@@ -1,0 +1,15 @@
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\bin\Debug\net6.0\exercises 2.exe
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\bin\Debug\net6.0\exercises 2.deps.json
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\bin\Debug\net6.0\exercises 2.runtimeconfig.json
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\bin\Debug\net6.0\exercises 2.dll
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\bin\Debug\net6.0\exercises 2.pdb
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\obj\Debug\net6.0\exercises 2.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\obj\Debug\net6.0\exercises 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\obj\Debug\net6.0\exercises 2.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\obj\Debug\net6.0\exercises 2.AssemblyInfo.cs
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\obj\Debug\net6.0\exercises 2.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\obj\Debug\net6.0\exercises 2.dll
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\obj\Debug\net6.0\refint\exercises 2.dll
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\obj\Debug\net6.0\exercises 2.pdb
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\obj\Debug\net6.0\exercises 2.genruntimeconfig.cache
+C:\Users\SANJAY STARK\Desktop\c#\exercises 2\exercises 2\obj\Debug\net6.0\ref\exercises 2.dll
