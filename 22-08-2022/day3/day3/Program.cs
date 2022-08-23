@@ -95,6 +95,39 @@ using System;
     }
 }
 
+//problem4
+
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace application
+{
+     class program
+    {
+        static void Main(string[] args)
+        {
+            ArrayList al = new ArrayList() { 5, 6, 7, 3, "welcome" };
+            al.Add(7);
+            al.Add(8);
+            al.Add("vs");
+            al.Remove(8);
+            al.RemoveAt(0);
+
+            Console.WriteLine("Elements in Arraylist are: ");
+            foreach (var item in al)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("Count is : " + al.Count);
+            Console.ReadLine();
+        }
+    }
+}
+
 //problem5
 
 using System;
@@ -188,6 +221,115 @@ public class program
             }
          }
 
+
+//problem9
+
+using System;
+    namespace application
+{
+    class program
+    {
+        static void Main(string[] args)
+        {
+            int[] arr1 = new int[10];
+            int n, i, j, tmp;
+            Console.Write("Input the size of array : ");
+            n = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Input {0} elements in the array :", n);
+            for (i = 0; i < n; i++)
+            {
+                Console.Write("element - {0} : ", i);
+                arr1[i] = Convert.ToInt32(Console.ReadLine());
+            }
+
+            for (i = 0; i < n; i++)
+            {
+                for (j = i + 1; j < n; j++)
+                {
+                    if (arr1[j] < arr1[i])
+                    {
+                        tmp = arr1[i];
+                        arr1[i] = arr1[j];
+                        arr1[j] = tmp;
+                    }
+                }
+            }
+            Console.Write("Elements of array in sorted ascending order:");
+            for (i = 0; i < n; i++)
+            {
+                Console.Write("{0}  ", arr1[i]);
+            }
+            Console.Write("");
+        }
+    }
+}
+
+//problem10
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace application
+{
+     class program
+    {
+        static void Main(string[] args)
+        {
+            Dictionary<int, string> dict = new Dictionary<int, string>();
+            dict.Add(1, "sanjay");
+            dict.Add(2, "bharathi");
+            dict.Add(3, "hi");
+            Console.WriteLine("Values in Dictionary are: ");
+            foreach (KeyValuePair<int, string> item in dict)
+            {
+                Console.WriteLine(item.Key + "  " + item.Value);
+
+            }
+            Console.ReadKey();
+        }
+    }
+}
+
+//problem11
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Application
+{
+     class program
+    {
+        static void Main(string[] args)
+        {
+            Dictionary<int, string> Mydict = new Dictionary<int, string>();
+            Mydict.Add(1, "hi");
+            Mydict.Add(2, "sanjay");
+            Mydict.Add(3, "bharathi");
+
+            foreach (KeyValuePair<int, string> elem in Mydict)
+            {
+                Console.WriteLine("{0} and {1}", elem.Key, elem.Value);
+
+            }
+            SortedDictionary<int, string> Mydict1 = new SortedDictionary<int, string>()
+            {
+                 {1, "hi"}, {5, "sanjay"},{2, "bharathi"},
+
+
+             };
+            Console.WriteLine();
+            Console.ReadLine();
+        }
+        }
+}
+
 //problem12
 
 using System;
@@ -233,48 +375,6 @@ using System;
     }
 }
 
-//problem9
-
-using System;
-    namespace application
-{
-    class program
-    {
-        static void Main(string[] args)
-        {
-            int[] arr1 = new int[10];
-            int n, i, j, tmp;
-            Console.Write("Input the size of array : ");
-            n = Convert.ToInt32(Console.ReadLine());
-
-            Console.Write("Input {0} elements in the array :", n);
-            for (i = 0; i < n; i++)
-            {
-                Console.Write("element - {0} : ", i);
-                arr1[i] = Convert.ToInt32(Console.ReadLine());
-            }
-
-            for (i = 0; i < n; i++)
-            {
-                for (j = i + 1; j < n; j++)
-                {
-                    if (arr1[j] < arr1[i])
-                    {
-                        tmp = arr1[i];
-                        arr1[i] = arr1[j];
-                        arr1[j] = tmp;
-                    }
-                }
-            }
-            Console.Write("Elements of array in sorted ascending order:");
-            for (i = 0; i < n; i++)
-            {
-                Console.Write("{0}  ", arr1[i]);
-            }
-            Console.Write("");
-        }
-    }
-}
 
 //problem13
 
@@ -340,6 +440,29 @@ namespace application
 }
 
 
+using System;
+    namespace application
+{
+    class program
+    {
+        static void Main(string[] args)
+        {
+           Idictionary<int, string> numberNames = new Dictionary<int, string>();
+            numberNames.Add(1, "apple");
+            numberNames.Add(2, "orange");
+            numberNames.Add(3, "mango");
 
+            foreach ( KeyValuePair<int, string> kvp in numberNames)
+                Console.WriteLine("key: {0}, value: {1}", kvp.Key, kvp.Value);
+            Console.WriteLine("sorted by key");
+            var sorted = numberNames.OrderBy(x => x.key);
+            foreach (var item in sorted)
+            {
+                Console.WriteLine(item);
+            }
+            Console.ReadLine();
+            }
+         }
+        }
 
 
