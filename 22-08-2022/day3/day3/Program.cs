@@ -440,29 +440,3 @@ namespace application
 }
 
 
-using System;
-    namespace application
-{
-    class program
-    {
-        static void Main(string[] args)
-        {
-           Idictionary<int, string> numberNames = new Dictionary<int, string>();
-            numberNames.Add(1, "apple");
-            numberNames.Add(2, "orange");
-            numberNames.Add(3, "mango");
-
-            foreach ( KeyValuePair<int, string> kvp in numberNames)
-                Console.WriteLine("key: {0}, value: {1}", kvp.Key, kvp.Value);
-            Console.WriteLine("sorted by key");
-            var sorted = numberNames.OrderBy(x => x.key);
-            foreach (var item in sorted)
-            {
-                Console.WriteLine(item);
-            }
-            Console.ReadLine();
-            }
-         }
-        }
-
-
