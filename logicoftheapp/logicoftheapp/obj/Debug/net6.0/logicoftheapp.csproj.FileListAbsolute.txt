@@ -1,0 +1,15 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\bin\Debug\net6.0\logicoftheapp.exe
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\bin\Debug\net6.0\logicoftheapp.deps.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\bin\Debug\net6.0\logicoftheapp.runtimeconfig.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\bin\Debug\net6.0\logicoftheapp.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\bin\Debug\net6.0\logicoftheapp.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\obj\Debug\net6.0\logicoftheapp.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\obj\Debug\net6.0\logicoftheapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\obj\Debug\net6.0\logicoftheapp.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\obj\Debug\net6.0\logicoftheapp.AssemblyInfo.cs
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\obj\Debug\net6.0\logicoftheapp.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\obj\Debug\net6.0\logicoftheapp.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\obj\Debug\net6.0\refint\logicoftheapp.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\obj\Debug\net6.0\logicoftheapp.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\obj\Debug\net6.0\logicoftheapp.genruntimeconfig.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\logicoftheapp\obj\Debug\net6.0\ref\logicoftheapp.dll

@@ -1,0 +1,12 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\reusablecode\bin\Debug\net6.0\reusablecode.deps.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\reusablecode\bin\Debug\net6.0\reusablecode.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\reusablecode\bin\Debug\net6.0\reusablecode.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\reusablecode\obj\Debug\net6.0\reusablecode.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\reusablecode\obj\Debug\net6.0\reusablecode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\reusablecode\obj\Debug\net6.0\reusablecode.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\reusablecode\obj\Debug\net6.0\reusablecode.AssemblyInfo.cs
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\reusablecode\obj\Debug\net6.0\reusablecode.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\reusablecode\obj\Debug\net6.0\reusablecode.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\reusablecode\obj\Debug\net6.0\refint\reusablecode.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\reusablecode\obj\Debug\net6.0\reusablecode.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\logicoftheapp\reusablecode\obj\Debug\net6.0\ref\reusablecode.dll
