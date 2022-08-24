@@ -6,7 +6,7 @@
     <RootNamespace>_23_08_2022</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ps3</StartupObject>
+    <StartupObject>_23_08_2022.Ps4</StartupObject>
   </PropertyGroup>
 
 </Project>
