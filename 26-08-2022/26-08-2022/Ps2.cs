@@ -18,7 +18,8 @@ namespace application
             // Pass the array indexes with values as structures
             emp[0].SetStudent(1, "sanjay", 20);
             emp[1].SetStudent(2, "ajay", 21);
-            emp[2].SetStudent(3, "lalith", 23);
+            emp[2].SetStudent(3, "lalith" +
+                "", 23);
 
             // Call the display method
             emp[0].DisplayStudent();

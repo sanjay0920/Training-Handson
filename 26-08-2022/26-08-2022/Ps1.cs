@@ -37,7 +37,7 @@ namespace application
             Student[] S = { new Student(), new Student() };
 
             S[0].SetStudent(001, "Sanjay", "IT",22);
-            S[1].SetStudent(002, "Ajay", "Mech", 23);
+            S[1].SetStudent(002, "Ajay", "Mech");
 
             S[0].PrintStudent();
             S[1].PrintStudent();
