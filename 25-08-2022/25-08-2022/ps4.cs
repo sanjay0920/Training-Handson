@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 namespace filehandling
-{ 
+{
     public class Ps4
     {
         public static void Main(string[] args)

@@ -1,0 +1,15 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\bin\Debug\net6.0\26-08-2022.exe
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\bin\Debug\net6.0\26-08-2022.deps.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\bin\Debug\net6.0\26-08-2022.runtimeconfig.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\bin\Debug\net6.0\26-08-2022.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\bin\Debug\net6.0\26-08-2022.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\obj\Debug\net6.0\26-08-2022.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\obj\Debug\net6.0\26-08-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\obj\Debug\net6.0\26-08-2022.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\obj\Debug\net6.0\26-08-2022.AssemblyInfo.cs
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\obj\Debug\net6.0\26-08-2022.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\obj\Debug\net6.0\26-08-2022.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\obj\Debug\net6.0\refint\26-08-2022.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\obj\Debug\net6.0\26-08-2022.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\obj\Debug\net6.0\26-08-2022.genruntimeconfig.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\25-08-2022\25-08-2022\26-08-2022\26-08-2022\obj\Debug\net6.0\ref\26-08-2022.dll
