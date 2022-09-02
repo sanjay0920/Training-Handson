@@ -1,0 +1,12 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\productclass\bin\Debug\net6.0\productclass.deps.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\productclass\bin\Debug\net6.0\productclass.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\productclass\bin\Debug\net6.0\productclass.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\productclass\obj\Debug\net6.0\productclass.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\productclass\obj\Debug\net6.0\productclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\productclass\obj\Debug\net6.0\productclass.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\productclass\obj\Debug\net6.0\productclass.AssemblyInfo.cs
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\productclass\obj\Debug\net6.0\productclass.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\productclass\obj\Debug\net6.0\productclass.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\productclass\obj\Debug\net6.0\refint\productclass.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\productclass\obj\Debug\net6.0\productclass.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\productclass\obj\Debug\net6.0\ref\productclass.dll

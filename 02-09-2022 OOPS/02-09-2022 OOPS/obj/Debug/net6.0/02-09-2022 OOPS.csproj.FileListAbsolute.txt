@@ -1,0 +1,20 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\bin\Debug\net6.0\02-09-2022 OOPS.exe
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\bin\Debug\net6.0\02-09-2022 OOPS.deps.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\bin\Debug\net6.0\02-09-2022 OOPS.runtimeconfig.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\bin\Debug\net6.0\02-09-2022 OOPS.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\bin\Debug\net6.0\02-09-2022 OOPS.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\bin\Debug\net6.0\categoryclass.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\bin\Debug\net6.0\productclass.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\bin\Debug\net6.0\categoryclass.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\bin\Debug\net6.0\productclass.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\obj\Debug\net6.0\02-09-2022 OOPS.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\obj\Debug\net6.0\02-09-2022 OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\obj\Debug\net6.0\02-09-2022 OOPS.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\obj\Debug\net6.0\02-09-2022 OOPS.AssemblyInfo.cs
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\obj\Debug\net6.0\02-09-2022 OOPS.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\obj\Debug\net6.0\02-09-2022 OOPS.csproj.CopyComplete
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\obj\Debug\net6.0\02-09-2022 OOPS.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\obj\Debug\net6.0\refint\02-09-2022 OOPS.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\obj\Debug\net6.0\02-09-2022 OOPS.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\obj\Debug\net6.0\02-09-2022 OOPS.genruntimeconfig.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\02-09-2022 OOPS\obj\Debug\net6.0\ref\02-09-2022 OOPS.dll

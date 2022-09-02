@@ -1,0 +1,12 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\categoryclass\bin\Debug\net6.0\categoryclass.deps.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\categoryclass\bin\Debug\net6.0\categoryclass.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\categoryclass\bin\Debug\net6.0\categoryclass.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\categoryclass\obj\Debug\net6.0\categoryclass.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\categoryclass\obj\Debug\net6.0\categoryclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\categoryclass\obj\Debug\net6.0\categoryclass.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\categoryclass\obj\Debug\net6.0\categoryclass.AssemblyInfo.cs
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\categoryclass\obj\Debug\net6.0\categoryclass.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\categoryclass\obj\Debug\net6.0\categoryclass.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\categoryclass\obj\Debug\net6.0\refint\categoryclass.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\categoryclass\obj\Debug\net6.0\categoryclass.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\02-09-2022 OOPS\categoryclass\obj\Debug\net6.0\ref\categoryclass.dll

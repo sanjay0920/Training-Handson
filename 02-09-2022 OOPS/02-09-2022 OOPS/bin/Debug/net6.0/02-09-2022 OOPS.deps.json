@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "02-09-2022 OOPS/1.0.0": {
+        "dependencies": {
+          "categoryclass": "1.0.0",
+          "productclass": "1.0.0"
+        },
+        "runtime": {
+          "02-09-2022 OOPS.dll": {}
+        }
+      },
+      "categoryclass/1.0.0": {
+        "runtime": {
+          "categoryclass.dll": {}
+        }
+      },
+      "productclass/1.0.0": {
+        "runtime": {
+          "productclass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02-09-2022 OOPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "categoryclass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "productclass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
