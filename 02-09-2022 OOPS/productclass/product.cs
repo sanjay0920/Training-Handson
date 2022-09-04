@@ -6,52 +6,61 @@ using System.Threading.Tasks;
 
 namespace productlibrary
 {
-    public class product
+    public class products
     {
-        int _productID;
+ 
+            private int _prodid;
+            public int ProductID
+            {
+                get { return _prodid; }
+                set { _prodid = value; }
+            }
+            private string _prodname;
+            public string ProductName
+            {
+                get { return _prodname; }
+                set { _prodname = value; }
+            }
+            private int _qtysold;
+            public int QTYSold
+            {
+                get { return _qtysold; }
+                set { _qtysold = value; }
+            }
+            private int _unitprice;
+            public int UnitPrice
+            {
+                get { return _unitprice; }
+                set { _unitprice = value; }
+            }
 
-        public int PRODUCTID
-        {
-            get { return _productID; }
-            set { _productID = value; }
+            private string _unirofm;
+            public string UnitOFMeasurement
+            {
+                get { return _unirofm; }
+                set { _unirofm = value; }
+            }
+            private int _qtyInHand;
+            public int QtyInHand
+            {
+                get { return _qtyInHand; }
+                set { _qtyInHand = value; }
+            }
+            private int _reorder;
+            public int ReorderLevel
+            {
+                get { return _reorder; }
+                set { _reorder = value; }
+            }
+
+            public void AddProduct(int _prodid, string _prodname)
+            {
+                this.ProductID = _prodid;
+                this.ProductName = _prodname;
+            }
+
+
+
+
         }
-
-        string _productName;
-
-        public string PRODUCTNAME
-        {
-            get { return _productName; }
-            set { _productName = value; }
-        }
-
-        int _qntysold;
-        public int QUANTITYSOLD
-        {
-            get { return _qntysold; }
-            set { _qntysold = value; }
-        }
-
-        int _unitprice;
-        public int UNITPRICE
-        {
-            get { return _unitprice; }
-            set { _unitprice = value; }
-        }
-
-        string _uomes;
-        public string UNITOFMEASUREMENT
-        {
-            get { return _uomes; }
-            set { _uomes = value; }
-        }
-
-        int _qihand;
-        public int QUANTITYINHAND
-        {
-            get { return _qihand; }
-            set { _qihand = value; }
-        }
-
-
     }
-}

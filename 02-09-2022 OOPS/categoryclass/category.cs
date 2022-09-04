@@ -5,32 +5,37 @@ using System.Text;
 using System.Threading.Tasks;
 namespace categorylibrary
 {
-    public class category
+    public class Category
     {
-        int _catId;
+            private int _catid;
+            public int CatID
+            {
+                get { return _catid; }
+                set { _catid = value; }
+            }
+            private string _catname;
+            public string CatName
+            {
+                get { return _catname; }
+                set { _catname = value; }
+            }
+            private string _desc;
+            public string Description
+            {
+                get { return _desc; }
+                set { _desc = value; }
+            }
+            private List<Products> _prodlist;
+            public List<Products> ProductsList
+            {
+                get { return _prodlist; }
+                set { _prodlist = value; }
+            }
 
-        public int CATID
-        {
-            get { return _catId; }
-            set { _catId = value; }
+            static int Productcount;
+            public void CountProduct()
+            {
+                Productcount = Productcount + 1;
+                Console.WriteLine("You added total Nos of Products: " + Productcount);
+            }
         }
-
-        string _catName;
-
-        public string CATNAME
-        {
-            get { return _catName; }
-            set { _catName = value; }
-        }
-
-        string _desc;
-
-        public string DESCRIPTION
-        {
-            get { return _desc; }
-            set { _desc = value; }
-        }
-
-
-    }
-}
