@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="person">
+      <HintPath>bin\Debug\net6.0\person.dll</HintPath>
+    </Reference>
+    <Reference Include="reusablecode">
+      <HintPath>..\..\logicoftheapp\reusablecode\bin\Debug\net6.0\reusablecode.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
