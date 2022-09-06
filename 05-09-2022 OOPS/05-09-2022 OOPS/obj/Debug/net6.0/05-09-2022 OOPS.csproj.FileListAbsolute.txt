@@ -1,0 +1,5 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\05-09-2022 OOPS\05-09-2022 OOPS\obj\Debug\net6.0\05-09-2022 OOPS.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\05-09-2022 OOPS\05-09-2022 OOPS\obj\Debug\net6.0\05-09-2022 OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\source\repos\sanjay-git\05-09-2022 OOPS\05-09-2022 OOPS\obj\Debug\net6.0\05-09-2022 OOPS.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\05-09-2022 OOPS\05-09-2022 OOPS\obj\Debug\net6.0\05-09-2022 OOPS.AssemblyInfo.cs
+C:\Users\SANJAY STARK\source\repos\sanjay-git\05-09-2022 OOPS\05-09-2022 OOPS\obj\Debug\net6.0\05-09-2022 OOPS.csproj.CoreCompileInputs.cache

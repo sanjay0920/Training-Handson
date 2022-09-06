@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_05_09_2022_OOPS</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\class\class.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="reusablecode">
+      <HintPath>..\..\logicoftheapp\reusablecode\bin\Debug\net6.0\reusablecode.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
