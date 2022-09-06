@@ -53,7 +53,18 @@ namespace ClassLibrary1
             set { description = value; }
 
         }
-        public void InsertData(int Bookid, string Bookname, int Price)
+        private int _customerid;
+
+        public int CustomerId
+        {
+            get { return _customerid; }
+            set { _customerid = value; }
+        }
+
+    }
+    
+
+    public void InsertData(int Bookid, string Bookname, int Price)
         {
             this.ID = Bookid;
             this.Name = Bookname;

@@ -1,0 +1,12 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\09-09-2022\person\bin\Debug\net6.0\person.deps.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\09-09-2022\person\bin\Debug\net6.0\person.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\09-09-2022\person\bin\Debug\net6.0\person.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\09-09-2022\person\obj\Debug\net6.0\person.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\09-09-2022\person\obj\Debug\net6.0\person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\source\repos\sanjay-git\09-09-2022\person\obj\Debug\net6.0\person.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\09-09-2022\person\obj\Debug\net6.0\person.AssemblyInfo.cs
+C:\Users\SANJAY STARK\source\repos\sanjay-git\09-09-2022\person\obj\Debug\net6.0\person.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\09-09-2022\person\obj\Debug\net6.0\person.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\09-09-2022\person\obj\Debug\net6.0\refint\person.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\09-09-2022\person\obj\Debug\net6.0\person.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\09-09-2022\person\obj\Debug\net6.0\ref\person.dll
