@@ -8,78 +8,184 @@ namespace ClassLibrary1
 {
     public class Book
     {
-        private int Bookid;
-        public int ID
+        private int id;
+        public int BookId
         {
-            get { return Bookid; }
-            set { Bookid = value; }
+            get;
+            set;
         }
-        private string Bookname;
-        public string Name
+        private string bname;
+        public string Bname
         {
-            get { return Bookname; }
-            set { Bookname = value; }
+            get { return bname; }
+            set { bname = value; }
         }
-        private int Price;
-        public int price
+        private float price;
+        public float Price
         {
-            get { return Price; }
+            get { return price; }
             set { price = value; }
+        }
+        private string author;
+        public string Author
+        {
+            get { return author; }
+            set { author = value; }
+        }
+        public void InsertBook(int Id, string Bookname, float Price)
+        {
+            id = Id;
+            bname = Bookname;
+            price = Price;
 
         }
-        private string Author;
-        public string name
+        public void InsertBook(int Id, string Bookname, float Price, string Author)
         {
-            get { return Author; }
-            set { Author = value; }
-        }
-        private int categoryid;
-        public int iD
-
-        {
-            get { return categoryid; }
-            set { categoryid = value; }
-        }
-        private string categoryname;
-        public string NAME
-        {
-            get { return categoryname; }
-            set { categoryname = value; }
-        }
-        private string description;
-        public string Desc
-        {
-            get { return description; }
-            set { description = value; }
+            id = Id;
+            bname = Bookname;
+            price = Price;
+            author = Author;
 
         }
-        private int _customerid;
+        public void InsertBook(int Id, string Bookname)
+        {
+            id = Id;
+            bname = Bookname;
+        }
+        public Book(int id, string bname, float price, string author)
+        {
+            this.id = id;
+            this.bname = bname;
+            this.price = price;
+            this.author = author;
+        }
+        public void Display()
+        {
+            Console.WriteLine(id);
+            Console.WriteLine(bname);
+            Console.WriteLine(price);
+            Console.WriteLine(author);
+        }
+        public Book()
+        {
 
+        }
+    }
+    public class Novels : Book
+    {
+        private int noofpages;
+        public int Noofpages
+        {
+            get { return noofpages; }
+            set { noofpages = value; }
+        }
+        public void InsertBook(int id1, string bname1, float price1, int pages)
+        {
+            base.BookId = id1;
+            base.Bname = bname1;
+            base.Price = price1;
+            noofpages = pages;
+        }
+        public void Displays()
+        {
+            Console.WriteLine(BookId);
+            Console.WriteLine(Bname);
+            Console.WriteLine(Price);
+            Console.WriteLine(Noofpages);
+        }
+    }
+    public class Cart : Book
+    {
+        private int Customerid;
         public int CustomerId
         {
-            get { return _customerid; }
-            set { _customerid = value; }
+            get { return Customerid; }
+            set { Customerid = value; }
+        }
+        private int bookingid;
+        public int BookingId
+        {
+            get { return bookingid; }
+            set { bookingid = value; }
         }
 
-    }
-    
 
-    public void InsertData(int Bookid, string Bookname, int Price)
+        List<Book> b = new List<Book>();
+        static int Count = 0;
+        public void Addtocart(int id, string bname, float price)
         {
-            this.ID = Bookid;
-            this.Name = Bookname;
-            this.price = Price;
+            Book b1 = new Book();
+            b1.BookId = id;
+            b1.Bname = bname;
+            b1.Price = price;
+            b.Add(b1);
+            Count++;
+            Console.WriteLine($"Product added {Count}");
 
         }
-        class Novel : Book
+
+
+        public void dis()
         {
-            public new void InsertData(int Bookid, string Bookname, int Price)
+            Console.WriteLine(CustomerId);
+            Console.WriteLine(BookingId);
+            foreach (var item in b)
             {
-                this.ID = Bookid;
-                this.Name = Bookname;
-                this.price = Price;
-
+                Console.WriteLine(item.BookId);
+                Console.WriteLine(item.Bname);
+                Console.WriteLine(item.Price);
             }
         }
+        public void bookdis()
+        {
+            foreach (var item in b)
+            {
+                Console.Write($"{item.BookId}\t{item.Bname}\n");
+
+            }
+
+        }
+    }
+    public class Bookcategory
+    {
+        private int catid;
+        public int CatId
+        {
+            get;
+            set;
+        }
+        private string catname;
+        public string CatName
+        {
+            get { return catname; }
+            set { catname = value; }
+        }
+        private string desc;
+        public string Description
+        {
+            get;
+            set;
+        }
+        public void Display()
+        {
+            Console.WriteLine(catid);
+            Console.WriteLine(catname);
+            Console.WriteLine(desc);
+        }
+        public Bookcategory(int id, string name, string descr)
+        {
+            catid = id;
+            catname = name;
+            desc = descr;
+        }
+        public Bookcategory()
+        {
+
+        }
+
+
+
+
+
     }
 }
