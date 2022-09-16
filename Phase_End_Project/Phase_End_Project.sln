@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase_End_Project", "Phase_End_Project\Phase_End_Project.csproj", "{FF2C66B9-6131-4584-AAA7-CD9B1E2E1F01}"
+	ProjectSection(ProjectDependencies) = postProject
+		{14A57EED-BCE0-41AD-A5D6-B2C3CDA38417} = {14A57EED-BCE0-41AD-A5D6-B2C3CDA38417}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayersLibrary", "PlayersLibrary\PlayersLibrary.csproj", "{14A57EED-BCE0-41AD-A5D6-B2C3CDA38417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF2C66B9-6131-4584-AAA7-CD9B1E2E1F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2C66B9-6131-4584-AAA7-CD9B1E2E1F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2C66B9-6131-4584-AAA7-CD9B1E2E1F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2C66B9-6131-4584-AAA7-CD9B1E2E1F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A57EED-BCE0-41AD-A5D6-B2C3CDA38417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A57EED-BCE0-41AD-A5D6-B2C3CDA38417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A57EED-BCE0-41AD-A5D6-B2C3CDA38417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A57EED-BCE0-41AD-A5D6-B2C3CDA38417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {147DA1B3-A32A-4878-8647-39D356262E0A}
+	EndGlobalSection
+EndGlobal

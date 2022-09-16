@@ -1,0 +1,12 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\PlayersLibrary\obj\Debug\net6.0\PlayersLibrary.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\PlayersLibrary\obj\Debug\net6.0\PlayersLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\PlayersLibrary\obj\Debug\net6.0\PlayersLibrary.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\PlayersLibrary\obj\Debug\net6.0\PlayersLibrary.AssemblyInfo.cs
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\PlayersLibrary\obj\Debug\net6.0\PlayersLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\PlayersLibrary\bin\Debug\net6.0\PlayersLibrary.deps.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\PlayersLibrary\bin\Debug\net6.0\PlayersLibrary.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\PlayersLibrary\bin\Debug\net6.0\PlayersLibrary.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\PlayersLibrary\obj\Debug\net6.0\PlayersLibrary.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\PlayersLibrary\obj\Debug\net6.0\refint\PlayersLibrary.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\PlayersLibrary\obj\Debug\net6.0\PlayersLibrary.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\PlayersLibrary\obj\Debug\net6.0\ref\PlayersLibrary.dll

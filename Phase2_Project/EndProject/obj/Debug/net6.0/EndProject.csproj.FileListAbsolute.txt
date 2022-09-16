@@ -1,0 +1,12 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\EndProject\bin\Debug\net6.0\EndProject.deps.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\EndProject\bin\Debug\net6.0\EndProject.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\EndProject\bin\Debug\net6.0\EndProject.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\EndProject\obj\Debug\net6.0\EndProject.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\EndProject\obj\Debug\net6.0\EndProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\EndProject\obj\Debug\net6.0\EndProject.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\EndProject\obj\Debug\net6.0\EndProject.AssemblyInfo.cs
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\EndProject\obj\Debug\net6.0\EndProject.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\EndProject\obj\Debug\net6.0\EndProject.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\EndProject\obj\Debug\net6.0\refint\EndProject.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\EndProject\obj\Debug\net6.0\EndProject.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\EndProject\obj\Debug\net6.0\ref\EndProject.dll

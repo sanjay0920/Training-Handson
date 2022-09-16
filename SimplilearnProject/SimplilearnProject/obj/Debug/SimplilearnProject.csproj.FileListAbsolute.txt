@@ -1,0 +1,11 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\SimplilearnProject\SimplilearnProject\bin\Debug\SimplilearnProject.exe.config
+C:\Users\SANJAY STARK\source\repos\sanjay-git\SimplilearnProject\SimplilearnProject\bin\Debug\SimplilearnProject.exe
+C:\Users\SANJAY STARK\source\repos\sanjay-git\SimplilearnProject\SimplilearnProject\bin\Debug\SimplilearnProject.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\SimplilearnProject\SimplilearnProject\obj\Debug\SimplilearnProject.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\SimplilearnProject\SimplilearnProject\obj\Debug\SimplilearnProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\SimplilearnProject\SimplilearnProject\obj\Debug\SimplilearnProject.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\SimplilearnProject\SimplilearnProject\obj\Debug\SimplilearnProject.exe
+C:\Users\SANJAY STARK\source\repos\sanjay-git\SimplilearnProject\SimplilearnProject\obj\Debug\SimplilearnProject.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\SimplilearnProject\SimplilearnProject\bin\Debug\ClassLibrary1.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\SimplilearnProject\SimplilearnProject\bin\Debug\ClassLibrary1.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\SimplilearnProject\SimplilearnProject\obj\Debug\SimplilearnProject.csproj.CopyComplete

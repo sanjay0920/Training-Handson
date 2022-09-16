@@ -1,0 +1,11 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\Phase2_Project\obj\Debug\Phase2_Project.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\Phase2_Project\obj\Debug\Phase2_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\Phase2_Project\obj\Debug\Phase2_Project.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\Phase2_Project\bin\Debug\Phase2_Project.exe.config
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\Phase2_Project\bin\Debug\Phase2_Project.exe
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\Phase2_Project\bin\Debug\Phase2_Project.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\Phase2_Project\bin\Debug\EndProject.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\Phase2_Project\bin\Debug\EndProject.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\Phase2_Project\obj\Debug\Phase2_Project.csproj.CopyComplete
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\Phase2_Project\obj\Debug\Phase2_Project.exe
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase2_Project\Phase2_Project\obj\Debug\Phase2_Project.pdb

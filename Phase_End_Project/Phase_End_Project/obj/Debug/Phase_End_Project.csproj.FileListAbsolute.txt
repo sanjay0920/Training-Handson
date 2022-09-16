@@ -1,0 +1,11 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\Phase_End_Project\bin\Debug\Phase_End_Project.exe.config
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\Phase_End_Project\bin\Debug\Phase_End_Project.exe
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\Phase_End_Project\bin\Debug\Phase_End_Project.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\Phase_End_Project\obj\Debug\Phase_End_Project.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\Phase_End_Project\obj\Debug\Phase_End_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\Phase_End_Project\obj\Debug\Phase_End_Project.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\Phase_End_Project\obj\Debug\Phase_End_Project.exe
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\Phase_End_Project\obj\Debug\Phase_End_Project.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\Phase_End_Project\bin\Debug\PlayersLibrary.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\Phase_End_Project\bin\Debug\PlayersLibrary.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase_End_Project\Phase_End_Project\obj\Debug\Phase_End_Project.csproj.CopyComplete

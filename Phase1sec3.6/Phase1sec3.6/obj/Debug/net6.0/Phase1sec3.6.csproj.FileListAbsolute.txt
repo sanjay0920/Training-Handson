@@ -1,0 +1,15 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\bin\Debug\net6.0\Phase1sec3.6.exe
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\bin\Debug\net6.0\Phase1sec3.6.deps.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\bin\Debug\net6.0\Phase1sec3.6.runtimeconfig.json
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\bin\Debug\net6.0\Phase1sec3.6.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\bin\Debug\net6.0\Phase1sec3.6.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\obj\Debug\net6.0\Phase1sec3.6.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\obj\Debug\net6.0\Phase1sec3.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\obj\Debug\net6.0\Phase1sec3.6.AssemblyInfoInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\obj\Debug\net6.0\Phase1sec3.6.AssemblyInfo.cs
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\obj\Debug\net6.0\Phase1sec3.6.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\obj\Debug\net6.0\Phase1sec3.6.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\obj\Debug\net6.0\refint\Phase1sec3.6.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\obj\Debug\net6.0\Phase1sec3.6.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\obj\Debug\net6.0\Phase1sec3.6.genruntimeconfig.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Phase1sec3.6\Phase1sec3.6\obj\Debug\net6.0\ref\Phase1sec3.6.dll
