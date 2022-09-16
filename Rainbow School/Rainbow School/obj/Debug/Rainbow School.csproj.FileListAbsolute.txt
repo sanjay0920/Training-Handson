@@ -1,0 +1,3 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Rainbow School\Rainbow School\obj\Debug\Rainbow School.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Rainbow School\Rainbow School\obj\Debug\Rainbow School.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Rainbow School\Rainbow School\obj\Debug\Rainbow School.csproj.CoreCompileInputs.cache

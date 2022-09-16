@@ -1,0 +1,16 @@
+<app-header></app-header>
+<form #userForm="ngForm" (ngsubmit)="getvalues(userForm.value)"  >
+  <div></div><h1>User form</h1> <br>
+  <input type="text" ngModel name="firstname" placeholder="enter firstname" >
+  <br><br>
+  <input type="text" ngModel name="lastname" placeholder="enter lastname" >
+  <br><br>
+  <input type="number" ngModel name="age" placeholder="enter age" >
+  <br><br>
+  <button (click)="getvalues(userForm.value)">submit</button>
+</form><br>
+<div>
+<h2>firstname:{{value.firstname}} <br>
+lastname:{{value.lastname}} <br>
+age:{{value.age}}</h2>
+</div>

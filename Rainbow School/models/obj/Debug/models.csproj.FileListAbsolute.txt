@@ -1,0 +1,6 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Rainbow School\models\bin\Debug\models.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Rainbow School\models\bin\Debug\models.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Rainbow School\models\obj\Debug\models.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Rainbow School\models\obj\Debug\models.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Rainbow School\models\obj\Debug\models.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\Rainbow School\models\obj\Debug\models.pdb
