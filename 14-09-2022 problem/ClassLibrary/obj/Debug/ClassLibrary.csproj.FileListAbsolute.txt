@@ -1,0 +1,9 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\14-09-2022 problem\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\14-09-2022 problem\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\14-09-2022 problem\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\14-09-2022 problem\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\14-09-2022 problem\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\14-09-2022 problem\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\14-09-2022 problem\ClassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\14-09-2022 problem\ClassLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SANJAY STARK\source\repos\sanjay-git\14-09-2022 problem\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
