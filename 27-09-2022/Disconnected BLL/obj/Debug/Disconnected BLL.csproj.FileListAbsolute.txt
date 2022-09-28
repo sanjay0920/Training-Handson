@@ -1,0 +1,6 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\Disconnected BLL\bin\Debug\Disconnected BLL.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\Disconnected BLL\bin\Debug\Disconnected BLL.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\Disconnected BLL\obj\Debug\Disconnected BLL.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\Disconnected BLL\obj\Debug\Disconnected BLL.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\Disconnected BLL\obj\Debug\Disconnected BLL.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\Disconnected BLL\obj\Debug\Disconnected BLL.pdb

@@ -1,0 +1,6 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\26-09-2022\BusinessLogicLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\26-09-2022\BusinessLogicLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\26-09-2022\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\26-09-2022\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\26-09-2022\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\26-09-2022\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.pdb

@@ -1,0 +1,13 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\bin\Debug\27-09-2022.exe.config
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\bin\Debug\27-09-2022.exe
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\bin\Debug\27-09-2022.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\bin\Debug\Disconnected BLL.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\bin\Debug\HelperLibrary.dll
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\bin\Debug\Disconnected BLL.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\bin\Debug\HelperLibrary.pdb
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\obj\Debug\27-09-2022.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\obj\Debug\27-09-2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\obj\Debug\27-09-2022.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\obj\Debug\27-09-2022.csproj.CopyComplete
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\obj\Debug\27-09-2022.exe
+C:\Users\SANJAY STARK\source\repos\sanjay-git\27-09-2022\27-09-2022\obj\Debug\27-09-2022.pdb
