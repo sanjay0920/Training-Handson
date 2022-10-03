@@ -1,0 +1,2 @@
+C:\Users\SANJAY STARK\source\repos\sanjay-git\30-09-2022\30-09-2022\obj\Debug\30-09-2022.csproj.AssemblyReference.cache
+C:\Users\SANJAY STARK\source\repos\sanjay-git\30-09-2022\30-09-2022\obj\Debug\30-09-2022.csproj.CoreCompileInputs.cache
